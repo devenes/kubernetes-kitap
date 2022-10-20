@@ -1,4 +1,5 @@
-![k8s](https://raw.githubusercontent.com/mstrYoda/kubernetes-kitap/master/kubernetes.png)
+![k8s-light](https://raw.githubusercontent.com/devenes/kubernetes-kitap/devenes-docs-add-dark-mode-support/docs/images/kubernetes-light.png#gh-light-mode-only)
+![k8s-dark](https://raw.githubusercontent.com/devenes/kubernetes-kitap/devenes-docs-add-dark-mode-support/docs/images/kubernetes-dark.png#gh-dark-mode-only)
 
 # Hoş geldiniz
 
